@@ -1,0 +1,47 @@
+.header{
+    background-color: #AFE9D0;
+    justify-content:center;
+    display: flex;
+    height: 100px;
+}
+.header h1{
+    color: black;
+    margin: auto;
+}
+
+footer{
+    background-color: #AFE9D0;
+    justify-content:center;
+    display: flex;
+    height: 50px;
+    width:100%;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+}
+
+footer p{
+    color: black;
+    margin: auto;
+}
+
+.logres{
+    margin: auto;
+    background-color : #FADF54;
+}
+
+
+.circle-guest{
+    margin:auto;
+    width:400px;
+    height: 400px;
+    line-height: 400px;
+    border-radius: 50%;
+    border:10px solid #FADF54;
+    font-size: 25px;
+    color: black;
+    text-align: center;
+    background: #ffffff
+}
+
+
